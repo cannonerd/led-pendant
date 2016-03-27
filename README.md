@@ -1,6 +1,14 @@
 # led-pendant
 
 
+
+The induction coil goes to backack 5v 
+
+backpack bat goes to trinket bat
+
+The instructions are wrong!!!!
+
+
 /// HSV Rainbow
 extern const TProgmemRGBPalette16 SuskiColors_p FL_PROGMEM;
 
