@@ -1,5 +1,6 @@
 # led-pendant
 
+sudo avrdude -c usbtiny -p attiny85 -U flash:w:sketch_mar26a.ino.tiny8.hex
 
 
 The induction coil goes to backack 5v 
